@@ -1,0 +1,16 @@
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\bin\Debug\net5.0\calculo_sueldo_console.exe
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\bin\Debug\net5.0\calculo_sueldo_console.deps.json
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\bin\Debug\net5.0\calculo_sueldo_console.runtimeconfig.json
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\bin\Debug\net5.0\calculo_sueldo_console.runtimeconfig.dev.json
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\bin\Debug\net5.0\calculo_sueldo_console.dll
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\bin\Debug\net5.0\ref\calculo_sueldo_console.dll
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\bin\Debug\net5.0\calculo_sueldo_console.pdb
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\obj\Debug\net5.0\calculo_sueldo_console.csprojAssemblyReference.cache
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\obj\Debug\net5.0\calculo_sueldo_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\obj\Debug\net5.0\calculo_sueldo_console.AssemblyInfoInputs.cache
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\obj\Debug\net5.0\calculo_sueldo_console.AssemblyInfo.cs
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\obj\Debug\net5.0\calculo_sueldo_console.csproj.CoreCompileInputs.cache
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\obj\Debug\net5.0\calculo_sueldo_console.dll
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\obj\Debug\net5.0\ref\calculo_sueldo_console.dll
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\obj\Debug\net5.0\calculo_sueldo_console.pdb
+C:\Users\born_\source\repos\aplicacionesc\calculo_sueldo_console\obj\Debug\net5.0\calculo_sueldo_console.genruntimeconfig.cache
