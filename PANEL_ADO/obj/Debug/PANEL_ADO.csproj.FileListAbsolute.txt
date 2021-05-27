@@ -1,0 +1,10 @@
+C:\Users\born_\source\repos\aplicacionesc\PANEL_ADO\bin\Debug\PANEL_ADO.exe.config
+C:\Users\born_\source\repos\aplicacionesc\PANEL_ADO\bin\Debug\PANEL_ADO.exe
+C:\Users\born_\source\repos\aplicacionesc\PANEL_ADO\bin\Debug\PANEL_ADO.pdb
+C:\Users\born_\source\repos\aplicacionesc\PANEL_ADO\obj\Debug\PANEL_ADO.csprojAssemblyReference.cache
+C:\Users\born_\source\repos\aplicacionesc\PANEL_ADO\obj\Debug\PANEL_ADO.Form1.resources
+C:\Users\born_\source\repos\aplicacionesc\PANEL_ADO\obj\Debug\PANEL_ADO.Properties.Resources.resources
+C:\Users\born_\source\repos\aplicacionesc\PANEL_ADO\obj\Debug\PANEL_ADO.csproj.GenerateResource.cache
+C:\Users\born_\source\repos\aplicacionesc\PANEL_ADO\obj\Debug\PANEL_ADO.csproj.CoreCompileInputs.cache
+C:\Users\born_\source\repos\aplicacionesc\PANEL_ADO\obj\Debug\PANEL_ADO.exe
+C:\Users\born_\source\repos\aplicacionesc\PANEL_ADO\obj\Debug\PANEL_ADO.pdb
